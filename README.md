@@ -1,6 +1,8 @@
 # Digital-Clock
 It is a website which shows current time and having feature like Light/Dark mode Toggle.
 
+Please click the image below to enlarge.
+
 # Screenshots of my project.
 
 # In Desktop/Laptop View
